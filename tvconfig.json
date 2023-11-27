@@ -1,13 +1,13 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XYQ.jar;md5;ce364d69792a2663e62022e66eae39c9",
+    "spider": "https://cdn.jsdelivr.net/gh/tekding/tvupdate@1.3/XYQ.jar;md5;ce364d69792a2663e62022e66eae39c9",
     "comment": "多路直播配置只有蜂蜜影视支持",
     "lives": [
       {
         "name": "LH",
           "type":"0",
           "pass": true,
-          "url": "https://cdn.jsdelivr.net/gh/tekding/tvupdate@1.2/tvlive.txt",
+          "url": "https://cdn.jsdelivr.net/gh/tekding/tvupdate@1.3/tvlive.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
