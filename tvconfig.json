@@ -3,6 +3,14 @@
     "spider": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/XYQ.jar;md5;ce364d69792a2663e62022e66eae39c9",
     "comment": "多路直播配置只有蜂蜜影视支持",
     "lives": [
+      {
+        "name": "LH",
+          "type":"0",
+          "pass": true,
+          "url": "https://cdn.jsdelivr.net/gh/tekding/tvupdate@1.0/tvlive.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+      }
         {
           "name": "Yoursmile7",
           "type":"0",
