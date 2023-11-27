@@ -7,7 +7,7 @@
         "name": "LH",
           "type":"0",
           "pass": true,
-          "url": "https://cdn.jsdelivr.net/gh/tekding/tvupdate@1.0/tvlive.txt",
+          "url": "https://cdn.jsdelivr.net/gh/tekding/tvupdate@1.2/tvlive.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
